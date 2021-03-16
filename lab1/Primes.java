@@ -1,6 +1,6 @@
 package com.company;
 
-public class Main {
+public class Primes {
     /*Класс, отведенный под решение 1 лабораторной работы курса ООП */
 
     public static void main(String[] args) {
